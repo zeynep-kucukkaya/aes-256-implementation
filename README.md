@@ -1,17 +1,21 @@
-# AES-256 Implementation
+# AES-256 Encryption Application
 
-## Project Description
-This project implements AES-256 encryption to understand
-the fundamentals of symmetric cryptography.
+This project is a Python-based implementation of the AES-256 encryption algorithm, developed to understand the fundamentals of symmetric cryptography and secure data transmission.
 
-## Technologies
+## Project Overview
+The goal of this project is to gain hands-on experience with cryptographic concepts such as key generation, encryption, and decryption while working with a widely used industry-standard algorithm.
+
+## Features
+- 256-bit key generation
+- AES-based encryption process
+- Secure decryption using the same symmetric key
+
+## Technologies Used
 - Python
+- Cryptography fundamentals
 
-## Project Scope
-- Key generation
-- Encryption process
-- Decryption process
+## Motivation
+This project was created as part of my self-directed learning process to better understand encryption logic and secure data handling mechanisms.
 
-## Purpose
-This project was created for educational purposes to
-understand encryption logic and secure data handling.
+## Project Status
+- Ongoing (open to improvements and optimizations)
